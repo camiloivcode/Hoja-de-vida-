@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+header {
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+section {
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+}
+
+a {
+  color: #4CAF50;
+
+}
+
+th, td {
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+
+ul {
+  padding-left: 20px;
+}
